@@ -22,7 +22,7 @@ function rejectLove() {
 function acceptLove() {
     document.getElementById("valentine").innerHTML = `
         <img src="https://media1.tenor.com/m/aEWN44So2ckAAAAC/kiss-kisses.gif" class="gif">
-        <div class="question">We are bitches❤️,moah,moahmoah</div>
+        <div class="question">We are bitches❤️moahmoah....</div>
     `;
     launchConfetti();
     startHeartRain();
